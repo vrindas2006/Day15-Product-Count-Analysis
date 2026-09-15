@@ -1,0 +1,16 @@
+                                                                                                                                                                                                                                                                                    Product Count Analysis,,,,,,,,,
+,,,,,,,,,
+Category,Product Count,,,Sub-Category,Product count,,,Fingings:,
+Furniture,2121,,,Bookcases,228,,,,"• Office Supplies has the highest number of records among the three categories, with 6,026 records."
+Office Supplies,6026,,,Chairs,617,,,,
+Technology,1847,,,Labels,364,,,,"• Furniture has 2,121 records, while Technology has 1,847 records."
+,,,,Tables,319,,,,
+Largest Category,,,,Storage,846,,,,"• Among the analyzed sub-categories, Binders has the highest record count with 1,523 records."
+Highest Product Count,6026,,,Art,796,,,,
+Category with Highest Count,Office Supplies,,,Phones,889,,,,"• Paper is the second-highest sub-category with 1,370 records."
+Top Category,Office Supplies,,,Binders,1523,,,,
+,,,,Appliances,466,,,,"• Bookcases has the lowest count among the listed sub-categories, with 228 records."
+,,,,Paper,1370,,,,
+,,,,,,,,,• The analysis was performed using COUNTIF formulas and PivotTables in Excel.
+,,,,Highest Sub-Category Count,,1523,,,
+,,,,Top Sub-Category,,Binders,,,"• The dataset does not contain a Product Name or Product ID column, so the analysis represents record counts rather than unique product counts."
